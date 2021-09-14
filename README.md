@@ -15,7 +15,7 @@ Developer documentation ([part of the user documentation](https://www.smarthomen
 Additional information can be found in the [SmartHomeNG Wiki](https://github.com/smarthomeNG/smarthome/wiki).
 
 ## Used Tools
-
+bb
 | Tool | Description |
 | ---     | :--- |
 | <a href="https://www.jetbrains.com/?from=SmartHomeNG"><img src="https://smarthomeng.de/images/pycharm-logo.png" width="80" height="70"></a> | SmartHomeNG was built using the Pycharm IDE. |
